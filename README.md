@@ -1,5 +1,7 @@
 # meshtastic-node-documentation
 
+Dies ist eine mögliche Variante offgrid Meshtastic Knoten zu bauen. Siehe auch https://wiki.meshhessen.de/index.php?title=Solar_Node_(Autarker_Meshtastic_Knoten)
+
 ## Shopping
 
 ### RAK
