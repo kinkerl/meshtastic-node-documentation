@@ -20,10 +20,6 @@ config:
     gpsUpdateInterval: 120
     positionBroadcastSecs: 21600
     positionFlags: 811
-location:
-  alt: 123 # Set this to your position
-  lat: 50.11552000 # Set this to your position
-  lon: 8.68417000 # Set this to your position
 module_config:
   mqtt:
     address: mqtt.meshtastic.org
