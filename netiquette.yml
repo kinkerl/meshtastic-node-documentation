@@ -1,0 +1,41 @@
+# start of Meshtastic configure yaml
+config:
+  device:
+    ledHeartbeatDisabled: true
+    nodeInfoBroadcastSecs: 10800
+  lora:
+    configOkToMqtt: true
+    hopLimit: 3
+    region: EU_868
+    sx126xRxBoostedGain: true
+    txEnabled: true
+    txPower: 27
+    usePreset: true
+  network:
+    ntpServer: meshtastic.pool.ntp.org
+  position:
+    broadcastSmartMinimumDistance: 100
+    broadcastSmartMinimumIntervalSecs: 30
+    fixedPosition: true
+    gpsUpdateInterval: 120
+    positionBroadcastSecs: 21600
+    positionFlags: 811
+location:
+  alt: 123 # Set this to your position
+  lat: 50.11552000 # Set this to your position
+  lon: 8.68417000 # Set this to your position
+module_config:
+  mqtt:
+    address: mqtt.meshtastic.org
+    encryptionEnabled: true
+    password: large4cats
+    root: msh/EU_868
+    username: meshdev
+  telemetry:
+    deviceUpdateInterval: 14400
+    powerMeasurementEnabled: true
+    powerScreenEnabled: true
+    powerUpdateInterval: 14400
+owner: Solarnode https://meshhessen.de # Set this to your name
+owner_short: SrNd # Set this to your name
+
