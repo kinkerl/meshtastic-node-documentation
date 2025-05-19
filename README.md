@@ -11,6 +11,9 @@ Es gibt dafür hier eine YAML config (`netiquette.yml`) welche alle Konfiguratio
 ```
  meshtastic --configure netiquette.yml 
 ```
+> [!NOTE]
+> GPS und Namen muss danach noch gesetzt werden.
+
 
 ## Shopping
 
