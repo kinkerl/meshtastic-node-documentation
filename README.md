@@ -35,4 +35,5 @@ Dies ist eine mögliche Variante offgrid Meshtastic Knoten zu bauen. Siehe auch 
 * Dichtung: Schaumstoffstreifen aus Silikonkautschuk, 3mm: https://de.aliexpress.com/item/1005006511018794.html?spm=a2g0o.order_list.order_list_main.38.48d45c5f2FGRye&gatewayAdapt=glo2deu
 * Silikonfett für die Dichtungen
 * Wasserdichte Druckausgleichsventile: https://www.aliexpress.com/item/1005007175727622.html?spm=a2g0o.order_list.order_list_main.16.df621802LlLh65
-* Kabel mit Stecker für alle Solar/Batterie/Stromverbindungen: https://www.aliexpress.com/item/1005007548578228.html?spm=a2g0o.order_list.order_list_main.39.df621802LlLh65 
+* Kabel mit Stecker für alle Solar/Batterie/Stromverbindungen: https://www.aliexpress.com/item/1005007548578228.html?spm=a2g0o.order_list.order_list_main.39.df621802LlLh65
+* Kleber und Dichtmasse zwischen Solarpanel und Gehäuse: Sikaflex 522
