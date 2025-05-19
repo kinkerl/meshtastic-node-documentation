@@ -36,6 +36,3 @@ module_config:
     powerMeasurementEnabled: true
     powerScreenEnabled: true
     powerUpdateInterval: 14400
-owner: Solarnode https://meshhessen.de # Set this to your name
-owner_short: SrNd # Set this to your name
-
