@@ -2,6 +2,18 @@
 
 Dies ist eine mögliche Variante offgrid Meshtastic Knoten zu bauen. Siehe auch https://wiki.meshhessen.de/index.php?title=Solar_Node_(Autarker_Meshtastic_Knoten)
 
+## netiquette
+
+Es wird empfohlen der netiquette von meshhessen zu folgen: https://wiki.meshhessen.de/index.php?title=Traffic_Netiquette_f%C3%BCr_Meshtastic
+
+Es gibt dafür hier eine YAML config (`netiquette.yml`) welche alle Konfigurationen schon macht und über die meshtastic python CLI eingespielt werden kann. 
+
+Schaut euch die Konfiguration VORHER an. Es gibt ein Werte die VORHER angepasst werden müssen.
+
+```
+ meshtastic --configure netiquette.yml 
+```
+
 ## Shopping
 
 ### RAK
