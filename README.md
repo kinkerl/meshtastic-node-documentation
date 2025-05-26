@@ -8,11 +8,12 @@ Es wird empfohlen der netiquette von meshhessen zu folgen: https://wiki.meshhess
 
 Es gibt dafür hier eine YAML config (`netiquette.yml`) welche alle Konfigurationen schon macht und über die meshtastic python CLI eingespielt werden kann. 
 
-Schaut euch die Konfiguration VORHER an. Es gibt ein Werte die VORHER angepasst werden müssen.
-
 ```
  meshtastic --configure netiquette.yml 
 ```
+> [!NOTE]
+> Position (Latitude, Longitude, Altitude) und Namen muss danach noch gesetzt werden.
+
 
 ## Shopping
 

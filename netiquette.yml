@@ -1,3 +1,10 @@
+# Opinions in this configuration:
+# * This is for a fixed position node. You have to set lat, long and alt
+# * This assumes you are using a power measurement hardware (see meshhessen.de community node)
+# * It sets the meshhessen.de MQTT server
+# * Embraces MQTT and allows sending and receiving via MQTT
+# * Deactivates the heartbeat LED to save power
+
 # start of Meshtastic configure yaml
 config:
   device:
@@ -11,8 +18,6 @@ config:
     txEnabled: true
     txPower: 27
     usePreset: true
-  network:
-    ntpServer: meshtastic.pool.ntp.org
   position:
     broadcastSmartMinimumDistance: 100
     broadcastSmartMinimumIntervalSecs: 30
@@ -20,10 +25,6 @@ config:
     gpsUpdateInterval: 120
     positionBroadcastSecs: 21600
     positionFlags: 811
-location:
-  alt: 123 # Set this to your position
-  lat: 50.11552000 # Set this to your position
-  lon: 8.68417000 # Set this to your position
 module_config:
   mqtt:
     address: mqtt.meshtastic.org
@@ -36,6 +37,3 @@ module_config:
     powerMeasurementEnabled: true
     powerScreenEnabled: true
     powerUpdateInterval: 14400
-owner: Solarnode https://meshhessen.de # Set this to your name
-owner_short: SrNd # Set this to your name
-
