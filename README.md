@@ -58,6 +58,8 @@ Der Text kann dann, passend zum Node, im slicer angepasst werden. Getestet im Pr
 ![alt text](meshhessen_qr_code.png "QR Code")
 Das Schild kann dann auf das Gehäuse von außen aufgeklebt werden.
 
+> [!IMPORTANT]
+> Für den 2-farbigen Druck sollte man zwei Farben mit einem starken helligkeitsunterschied nutzen. Schwarz und Weiß ist perfekt. In dem Renderbild des QR-Codes sieht man zwar einen starken Kontrast zwischen Grün und Orange, der Grau-wert beider Farben ist aber im Vergleich kontrastarm und die meisten Scanner kommen damit nicht klar. 
 
 
 
