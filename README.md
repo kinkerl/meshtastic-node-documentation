@@ -37,6 +37,11 @@ Es gibt dafür hier eine YAML config (`netiquette.yml`) welche alle Konfiguratio
   
 ### Antenne
 * MikroTik LoRaWAN - Omni Antenne 824-960 MHz:  https://www.omg.de/mikrotik/lorawan/mikrotik-lorawan-omni-antenne-824-960-mhz/a-25277
+* Horizon Helium City 868 (anderer Anschluss!): https://interline.pl/de/antennas/HORIZON-HELIUM-CITY-868
+
+> [!IMPORTANT]
+> Auf ebay Kleinanzeigen werden Teilweise günstige Antennen von alten Helium Minern verkauft. Die nutzen auch 868MHz und kann man benutzen. 
+
 
 ### Gehäuse 
 * Ebay von AN3DAS.de:  https://www.ebay.de/itm/335611244498
