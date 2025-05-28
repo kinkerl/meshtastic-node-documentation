@@ -31,6 +31,7 @@ Es gibt dafür hier eine YAML config (`netiquette.yml`) welche alle Konfiguratio
 
 ### Stromversorgung
 * Solarmodul 5W 5V: https://de.aliexpress.com/item/1005003823736770.html
+  Die 5V Volt sind wichtig. 5 Watt ist ok, 7 Watt oder 10 Watt sind besser bei schlechter Ausrichtung.
 * DFRobot Solar Power Manager - Solarenergie-Managementmodul – 5V: https://botland.de/zubehor-fur-solarmodule/14423-dfrobot-solar-power-manager-solarenergie-managementmodul-5v-6959420913473.html
 * INA219 I2C Bidirektionaler Gleichstrom-Stromversorgungssensor https://www.amazon.de/dp/B07YDH2PCY/
 * Keeppower 26650 7000mAh 3,6V-3,7V Li-Ionen-Akku Mit PCB Schutzelektronik: https://www.akkuteile.de/lithium-ionen-akkus/26650/keeppower/keeppower-26650-7000mah-max-15a-entladestrom-3-6v-3-7v-li-ionen-akku_12119_3605
@@ -38,6 +39,7 @@ Es gibt dafür hier eine YAML config (`netiquette.yml`) welche alle Konfiguratio
 ### Antenne
 * MikroTik LoRaWAN - Omni Antenne 824-960 MHz:  https://www.omg.de/mikrotik/lorawan/mikrotik-lorawan-omni-antenne-824-960-mhz/a-25277
 * Horizon Helium City 868 (anderer Anschluss!): https://interline.pl/de/antennas/HORIZON-HELIUM-CITY-868
+* Anderer Anschluss, wenn nötig: https://de.aliexpress.com/item/1005005844592086.html
 
 > [!IMPORTANT]
 > Auf ebay Kleinanzeigen werden Teilweise günstige Antennen von alten Helium Minern verkauft. Die nutzen auch 868MHz und kann man benutzen. 
@@ -45,9 +47,9 @@ Es gibt dafür hier eine YAML config (`netiquette.yml`) welche alle Konfiguratio
 
 ### Gehäuse 
 * Ebay von AN3DAS.de:  https://www.ebay.de/itm/335611244498
-* oder 3D Druck: https://www.printables.com/model/72839-customizable-parametric-stable-and-waterproof-elec
-* oder 3D Druck: https://www.printables.com/model/1012624-w9etc-meshtastic-solar-node
-  * Heated Inserst für das Gehäuse( M3 x 5mm und M5 x 4mm): https://de.aliexpress.com/item/1005008165093382.html?spm=a2g0o.order_list.order_list_main.20.48d45c5f2FGRye&gatewayAdapt=glo2deu
+* oder 3D Druck: https://www.printables.com/model/72839-customizable-parametric-stable-and-waterproof-elec <- sehr schönes Gehäuse!
+* oder 3D Druck: https://www.printables.com/model/1012624-w9etc-meshtastic-solar-node <- hab ich genutzt. Passt sehr gut, Dichtung ist nicht optimal.
+* Heated Inserst für Gehäuse( M3 x 5mm und M5 x 4mm): https://de.aliexpress.com/item/1005008165093382.html?spm=a2g0o.order_list.order_list_main.20.48d45c5f2FGRye&gatewayAdapt=glo2deu
  
 ### Kleinkram
 * Dichtung: Schaumstoffstreifen aus Silikonkautschuk, 3mm: https://de.aliexpress.com/item/1005006511018794.html?spm=a2g0o.order_list.order_list_main.38.48d45c5f2FGRye&gatewayAdapt=glo2deu
