@@ -68,4 +68,11 @@ Das Schild kann dann auf das Gehäuse von außen aufgeklebt werden.
 
 
 
-
+## Config Checklist
+* Namen und Short
+* Frequenz auf Europa
+* `netiquette.yml` einspielen
+* `channels_and_mqtt.yml` einspielen
+* Bluetooth pin verändern
+* keys speichern
+* remote admin key festlegen
