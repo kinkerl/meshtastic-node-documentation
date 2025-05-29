@@ -1,11 +1,3 @@
-# Opinions in this configuration:
-# * This is for a fixed position node. You have to set lat, long and alt
-# * This assumes you are using a power measurement hardware (see meshhessen.de community node)
-# * It sets the meshhessen.de MQTT server
-# * Embraces MQTT and allows sending and receiving via MQTT
-# * Deactivates the heartbeat LED to save power
-
-# start of Meshtastic configure yaml
 module_config:
   mqtt:
     address: mqtt.meshtastic.org
