@@ -26,12 +26,6 @@ config:
     positionBroadcastSecs: 21600
     positionFlags: 811
 module_config:
-  mqtt:
-    address: mqtt.meshtastic.org
-    encryptionEnabled: true
-    password: large4cats
-    root: msh/EU_868
-    username: meshdev
   telemetry:
     deviceUpdateInterval: 14400
     powerMeasurementEnabled: true
