@@ -31,7 +31,9 @@ Diese Anleitung hilft dir, **schnell und einfach** dein Meshtastic-Gerät (Node)
 1. In dem linken Reiter (Symbol Sprechblase) werden Nachrichten geschrieben und empfangen.
 2. Es gibt 2 öffentliche Gruppenchats: "LongFast" (Allgemeiner Chat) und "MeshHessen" (Lokaler Chat).
 3. Es gibt 1 privaten Gruppenchat. Der Name ist ______________
-4. In der App, ab hier, in etwa wie Whatsapp oder Signal benutzt werden. 
-6. Drücke auf **Senden** (Flugzeug-Icon).
+4. In der App, ab hier, in etwa wie Whatsapp oder Signal benutzt werden.
+
+> [!IMPORTANT]
+> Es kann aber etwas dauern bis eine Nachricht geschickt oder empfangen wird. Das Senden kann auch fehlschlagen und der Sendestatus wird als ein Symbol an der Nachricht angezeigt.
 
 Die Nachricht wird **über Funk** an alle erreichbaren Nodes in deiner Umgebung gesendet – **auch ohne Internet**.
