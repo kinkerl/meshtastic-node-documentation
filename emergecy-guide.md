@@ -37,3 +37,9 @@ Diese Anleitung hilft dir, **schnell und einfach** dein Meshtastic-Gerät (Node)
 > Es kann etwas dauern bis eine Nachricht geschickt oder empfangen wird. Das Senden kann auch fehlschlagen und der Sendestatus wird als kleines Symbol an der Nachricht angezeigt.
 
 Die Nachricht wird **über Funk** an alle erreichbaren Nodes in deiner Umgebung gesendet – **auch ohne Internet**.
+
+## Probleme: Der MeshHessen Kannel ist nicht sichtbar
+
+1. Scanne folgenden QR Code und folge den Anweisungen:
+
+![MeshHessen QR Code](MH_QR_and_ss.png)
