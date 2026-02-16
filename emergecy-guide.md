@@ -2,8 +2,9 @@
 
 Diese Anleitung hilft dir, **schnell und einfach** dein Meshtastic-Gerät (Node) mit deinem Smartphone zu verbinden und mit anderen zu kommunizieren – auch **ohne Mobilfunk oder Internet**.
 
-## 🧾 Was du brauchst
+## 🧾 Vorbereitung: Was du brauchst
 
+* Ein Meshtastic Gerät mit Antenne
 * Ein Smartphone (Android oder iPhone)
 * Die **Meshtastic-App** (kostenlos im App Store oder Play Store)
 
@@ -15,7 +16,7 @@ Diese Anleitung hilft dir, **schnell und einfach** dein Meshtastic-Gerät (Node)
 3. Lade die App herunter und installiere sie.
 
 
-## 🔗 Schritt 1: Mit dem Node verbinden (Pairing)
+## 🔗 Vorbereitung: Mit dem Node verbinden (Pairing)
 
 1. Schalte Bluetooth am Handy ein.
 2. Öffne die Meshtastic-App und wechsele zum letzten Reiter/Tab mit dem Zahnrad als Symbol.
@@ -26,14 +27,14 @@ Diese Anleitung hilft dir, **schnell und einfach** dein Meshtastic-Gerät (Node)
 7. Eventuell muss noch ein Code für das Pairing eingegeben werden. Der Code lautet ______________
 
 
-## 🗨️ Schritt 2: Nachrichten senden
+## 🗨️ Notfallsituation: Nachrichten lesen und senden
 
 1. In dem linken Reiter (Symbol Sprechblase) werden Nachrichten geschrieben und empfangen.
-2. Es gibt 2 öffentliche Gruppenchats: "LongFast" (Allgemeiner Chat) und "MeshHessen" (Lokaler Chat).
+2. Es gibt 2 öffentliche Gruppenchats: "LongFast" oder "ShortSlow" (Allgemeiner Chat) und "MeshHessen" (Community Chat).
 3. Es gibt 1 privaten Gruppenchat. Der Name ist ______________
-4. In der App, ab hier, in etwa wie Whatsapp oder Signal benutzt werden.
+4. Diese Bereich kann in etwa wie WhatsApp oder Signal benutzt werden
 
 > [!IMPORTANT]
-> Es kann aber etwas dauern bis eine Nachricht geschickt oder empfangen wird. Das Senden kann auch fehlschlagen und der Sendestatus wird als ein Symbol an der Nachricht angezeigt.
+> Es kann etwas dauern bis eine Nachricht geschickt oder empfangen wird. Das Senden kann auch fehlschlagen und der Sendestatus wird als kleines Symbol an der Nachricht angezeigt.
 
 Die Nachricht wird **über Funk** an alle erreichbaren Nodes in deiner Umgebung gesendet – **auch ohne Internet**.
