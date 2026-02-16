@@ -29,7 +29,7 @@ Diese Anleitung hilft dir, **schnell und einfach** dein Meshtastic-Gerät (Node)
 ## 🗨️ Notfallsituation: Nachrichten lesen und senden
 
 1. In dem linken Reiter (Symbol Sprechblase) werden Nachrichten geschrieben und empfangen.
-2. Es gibt 2 öffentliche Gruppenchats: "LongFast" oder "ShortSlow" für den Allgemeiner Chat, sowie "MeshHessen" (Community Chat).
+2. Es gibt 2 öffentliche Gruppenchats: "ShortSlow" für den Allgemeiner Chat, sowie "MeshHessen" als Community Chat.
 3. Es gibt 1 privaten Gruppenchat. Der Name ist ____________________________
 4. Dieser Bereich kann in etwa wie WhatsApp oder Signal benutzt werden
 
@@ -38,7 +38,12 @@ Diese Anleitung hilft dir, **schnell und einfach** dein Meshtastic-Gerät (Node)
 
 Die Nachricht wird **über Funk** an alle erreichbaren Nodes in deiner Umgebung gesendet – **auch ohne Internet**.
 
-## Probleme: Der MeshHessen Kannel ist nicht sichtbar
+## Probleme: Der "ShortSlow" Gruppenchat ist nicht sichtbar, nur "LongFast".
+
+1. Gehe in die Einstellungen über den Reiter mit dem Zahnrad am unteren Rand
+2. Unter "Lora" stelle sicher, dass die Region auf "European Union 868MHz" und Presets auf "Short Range - Slow" steht.
+
+## Probleme: Der "MeshHessen" Gruppenchat ist nicht sichtbar
 
 1. Scanne folgenden QR Code und folge den Anweisungen:
 
